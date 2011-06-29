@@ -13,6 +13,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MyNetworksActivity"></activity>
+        <activity android:name=".AddressCalculator"></activity>
 
     </application>
 </manifest>
