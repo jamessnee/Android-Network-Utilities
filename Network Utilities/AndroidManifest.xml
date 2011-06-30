@@ -15,6 +15,7 @@
         </activity>
         <activity android:name=".MyNetworksActivity"></activity>
         <activity android:name=".AddressCalculatorActivity"></activity>
+        <activity android:name=".PatchesActivity"></activity>
 
     </application>
 </manifest>
