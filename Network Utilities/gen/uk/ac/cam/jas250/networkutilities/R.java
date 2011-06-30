@@ -17,10 +17,37 @@ public final class R {
         public static final int mynetworksup=0x7f020003;
     }
     public static final class id {
-        public static final int btn_AddressCalculator=0x7f050003;
-        public static final int btn_MyNetworks=0x7f050002;
-        public static final int imgView_Icon=0x7f050001;
-        public static final int textView1=0x7f050000;
+        public static final int btn_AddressCalculator=0x7f05001e;
+        public static final int btn_Back=0x7f05001b;
+        public static final int btn_MyNetworks=0x7f05001d;
+        public static final int btn_Update=0x7f05001a;
+        public static final int imageView1=0x7f050000;
+        public static final int imgView_Icon=0x7f05001c;
+        public static final int lbl_AddressRange=0x7f050017;
+        public static final int lbl_SubnetID=0x7f050019;
+        public static final int radioGroupLayout=0x7f050005;
+        public static final int rb_A=0x7f050006;
+        public static final int rb_B=0x7f050007;
+        public static final int rb_C=0x7f050008;
+        public static final int rbgroup_NetworkClass=0x7f050004;
+        public static final int spnr_SubnetMask=0x7f050015;
+        public static final int tableLayout1=0x7f050002;
+        public static final int tableRow1=0x7f050003;
+        public static final int tableRow2=0x7f050009;
+        public static final int tableRow3=0x7f05000b;
+        public static final int tableRow4=0x7f050013;
+        public static final int textView1=0x7f050001;
+        public static final int textView2=0x7f05000a;
+        public static final int textView3=0x7f05000d;
+        public static final int textView4=0x7f05000f;
+        public static final int textView5=0x7f050011;
+        public static final int textView6=0x7f050014;
+        public static final int textView7=0x7f050016;
+        public static final int textView9=0x7f050018;
+        public static final int txt_IpAdd1=0x7f05000c;
+        public static final int txt_IpAdd2=0x7f05000e;
+        public static final int txt_IpAdd3=0x7f050010;
+        public static final int txt_IpAdd4=0x7f050012;
     }
     public static final class layout {
         public static final int addresscalculator=0x7f030000;

@@ -14,7 +14,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MyNetworksActivity"></activity>
-        <activity android:name=".AddressCalculator"></activity>
+        <activity android:name=".AddressCalculatorActivity"></activity>
 
     </application>
 </manifest>

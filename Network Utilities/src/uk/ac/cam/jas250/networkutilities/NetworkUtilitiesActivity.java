@@ -31,7 +31,7 @@ public class NetworkUtilitiesActivity extends Activity implements OnClickListene
 		}
 		else if(R.id.btn_AddressCalculator == v.getId()){
 			Intent addressCalculatorI = new Intent(NetworkUtilitiesActivity.this, AddressCalculatorActivity.class);
-			startActivity(addressCalculatorI);
+			startActivityForResult(addressCalculatorI,0);
 		}
 	}
     
